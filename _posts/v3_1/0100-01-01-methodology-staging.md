@@ -11,7 +11,9 @@ It's a new thing to measure human rights. Here you learn **how we measure** the 
 ===end-sub-heading
 
 ===text-section
-## There is no one-size-fits-all methodology for measuring human rights performance, so we use different methodologies, tailored to measure each set of rights.
+## Measuring Human Rights
+
+There is no one-size-fits-all methodology for measuring human rights performance, so we use different methodologies, tailored to measure each set of rights.
 
 ### Measuring civil and political rights
 
