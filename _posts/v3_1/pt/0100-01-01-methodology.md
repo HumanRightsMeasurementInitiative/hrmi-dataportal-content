@@ -6,7 +6,11 @@ lang: pt
 title: Methodology
 ---
 
+===sub-heading
+===end-sub-heading
+
 ===text-section
+
 Não existe uma metodologia única para medir o desempenho dos direitos humanos, por isso utilizamos metodologias diferentes que são mais adequadas para cada área.
 
 ## Medir direitos civis e políticos 

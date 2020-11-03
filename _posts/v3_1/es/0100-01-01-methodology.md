@@ -6,7 +6,11 @@ lang: es
 title: Methodology
 ---
 
+===sub-heading
+===end-sub-heading
+
 ===text-section
+
 No existe una única metodología para medir el cumplimiento de los derechos humanos. Para ello utilizamos diferentes metodologías, diseñadas para evaluar cada conjunto de derechos.
 
 ## Medición de derechos civiles y políticos 
