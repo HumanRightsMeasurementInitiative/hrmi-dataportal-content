@@ -6,12 +6,21 @@ lang: en
 title: Methodology
 ---
 
+===sub-heading
+It's a new thing to measure human rights. Here you learn **how we measure** the different rights and how you can **interpret these.**
+===end-sub-heading
+
+===text-section
+## Measuring Human Rights
+
 There is no one-size-fits-all methodology for measuring human rights performance, so we use different methodologies, tailored to measure each set of rights.
 
-## Measuring civil and political rights
+### Measuring civil and political rights
 
 For civil and political rights, where violations often take place in secret and reporting is inconsistent across different countries, we use a multilingual expert survey approach to get our information directly from the human rights experts who are monitoring events in each country.
+===end-text-section
 
+===info-box
 Learn more:
 
 [Get an overview of our methodology for measuring civil and political rights](https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/)
@@ -19,13 +28,15 @@ Learn more:
 [Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
 
 [See the HRMI expert survey for civil and political rights](https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview) (please note this is a link to a preview of the most recent version of the survey, and any responses you enter will not be collected)
+===end-info-box
 
----
-
-## Measuring economic and social rights
+===text-section
+### Measuring economic and social rights
 
 For economic and social rights, we draw on national statistics produced by governments and international agencies, and use the award-winning SERF Index methodology to compare countries’ human rights outcomes with their income, to capture the concept of 'progressive realisation'.
+===end-text-section
 
+===info-box
 Learn more:
 
 [Get an overview of our methodology for measuring economic and social rights](https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/)
@@ -33,10 +44,10 @@ Learn more:
 [Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
 
 [Visit the SERF Index website](https://serfindex.uconn.edu/)
+===end-info-box
 
----
-
-## Understanding how to interpret the good, fair, bad, and very bad labels on the country charts
+===text-section
+### Understanding how to interpret the good, fair, bad, and very bad labels on the country charts
 
 What do the **good**, **fair**, **bad**, and **very bad** ranges mean, exactly?
 
@@ -81,3 +92,4 @@ The global best scores assess country performance compared to the ultimate goal 
 **Bad** (75-84.9%): Countries scoring in this range have a long way to go to ensure that most people enjoy the right concerned, and there remain substantial segments of society that are unable to do so.  
 
 **Very bad** (below 75%): In countries scoring in this range, broad segments of society are unable to claim the right concerned. These countries are likely very low income countries, or countries that have failed to put in place the kinds of structures and policies that help people claim the right concerned, or both.
+===end-text-section

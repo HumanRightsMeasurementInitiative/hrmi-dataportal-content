@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /v3_1/fr/methodology/
+permalink: /v3_1/fr/methodology-staging/
 lang: fr
 title: Methodology
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /v3_1/es/about/
+permalink: /v3_1/es/about-staging/
 lang: es
 title: About
 ---
