@@ -7,11 +7,9 @@ title: Methodology
 ---
 
 ===sub-heading
-It's a new thing to measure human rights. Here you learn **how we measure** the different rights and how you can **interpret these.**
 ===end-sub-heading
 
 ===text-section
-## Measuring Human Rights
 
 Il n'existe pas d’outils clés en main pour évaluer le respect des droits humains. Par conséquent, nous utilisons différentes méthodologies conçues spécifiquement pour chaque type de droits.
 
