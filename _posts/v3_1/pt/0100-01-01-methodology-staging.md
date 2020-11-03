@@ -6,7 +6,13 @@ lang: pt
 title: Methodology
 ---
 
+===sub-heading
+It's a new thing to measure human rights. Here you learn **how we measure** the different rights and how you can **interpret these.**
+===end-sub-heading
+
 ===text-section
+## Measuring Human Rights
+
 Não existe uma metodologia única para medir o desempenho dos direitos humanos, por isso utilizamos metodologias diferentes que são mais adequadas para cada área.
 
 ## Medir direitos civis e políticos 
