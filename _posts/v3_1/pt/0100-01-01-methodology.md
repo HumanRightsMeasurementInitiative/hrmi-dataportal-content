@@ -7,9 +7,11 @@ title: Methodology
 ---
 
 ===sub-heading
+É uma coisa nova medir os direitos humanos. Aqui você aprende **como medimos** os diferentes direitos e como você pode **interpretá-los.**
 ===end-sub-heading
 
 ===text-section
+## Medir direitos humanos
 
 Não existe uma metodologia única para medir o desempenho dos direitos humanos, por isso utilizamos metodologias diferentes que são mais adequadas para cada área.
 
