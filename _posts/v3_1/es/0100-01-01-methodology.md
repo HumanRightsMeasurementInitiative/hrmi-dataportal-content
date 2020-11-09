@@ -7,7 +7,7 @@ title: Methodology
 ---
 
 ===sub-heading
-Es una novedad medir los derechos humanos. Aquí aprenderá **cómo medimos** los diferentes derechos y cómo puede **interpretarlos**.
+Es una novedad medir los derechos humanos. Aquí aprenderá **cómo medimos** los diferentes derechos y cómo puede **interpretarlos.**
 ===end-sub-heading
 
 ===text-section
