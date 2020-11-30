@@ -23,11 +23,12 @@ Para os direitos civis e políticos, onde as violações muitas vezes ocorrem em
 ===info-box
 Saber mais:
 
-[Obtenha uma visão geral de nossa metodologia para medir os direitos civis e políticos](https://humanrightsmeasurement.org/pt-pt/metodologia/medindo-direitos-civis-e-politicos/)
+<a href="https://humanrightsmeasurement.org/pt-pt/metodologia/medindo-direitos-civis-e-politicos/" target="_blank">Obtenha uma visão geral de nossa metodologia para medir os direitos civis e políticos</a>
 
-[Leia o nosso manual de metodologia mais detalhado (em inglês)](https://humanrightsmeasurement.org/methodology-handbook/)
+<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Leia o nosso manual de metodologia mais detalhado (em inglês)</a>
 
-[Veja a pesquisa de especialistas da HRMI em direitos civis e políticos](https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview) (Atenção: esta versão da pesquisa não está ativa e qualquer resposta inserida não será registrada)
+<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview" target="_blank">Veja a pesquisa de especialistas da HRMI em direitos civis e políticos</a>
+(Atenção: esta versão da pesquisa não está ativa e qualquer resposta inserida não será registrada)
 ===end-info-box
 
 ===text-section
@@ -39,11 +40,11 @@ Para direitos económicos e sociais, recorremos a estatísticas nacionais produz
 ===info-box
 Saber mais:
 
-[Obtenha uma visão geral de nossa metodologia de medição dos direitos econômicos e sociais](https://humanrightsmeasurement.org/pt-pt/metodologia/medicao-de-direitos-economicos-e-sociais/)
+<a href="https://humanrightsmeasurement.org/pt-pt/metodologia/medicao-de-direitos-economicos-e-sociais/" target="_blank">Obtenha uma visão geral de nossa metodologia de medição dos direitos econômicos e sociais</a>
 
-[Leia o nosso manual de metodologia mais detalhado (em inglês)](https://humanrightsmeasurement.org/methodology-handbook/)
+<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Leia o nosso manual de metodologia mais detalhado (em inglês)</a>
 
-[Visite o site do SERF Index (em inglês)](https://serfindex.uconn.edu/)
+<a href="https://serfindex.uconn.edu/" target="_blank">Visite o site do SERF Index (em inglês)</a>
 ===end-info-box
 
 ===text-section

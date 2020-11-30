@@ -23,11 +23,12 @@ For civil and political rights, where violations often take place in secret and 
 ===info-box
 Learn more:
 
-[Get an overview of our methodology for measuring civil and political rights](https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/)
+<a href="https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/" target="_blank">Get an overview of our methodology for measuring civil and political rights</a>
 
-[Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
+<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Read our more in-depth methodology handbook</a>
 
-[See the HRMI expert survey for civil and political rights](https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview) (please note this is a link to a preview of the most recent version of the survey, and any responses you enter will not be collected)
+<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview" target="_blank">See the HRMI expert survey for civil and political rights</a>
+(please note this is a link to a preview of the most recent version of the survey, and any responses you enter will not be collected)
 ===end-info-box
 
 ===text-section
@@ -39,11 +40,11 @@ For economic and social rights, we draw on national statistics produced by gover
 ===info-box
 Learn more:
 
-[Get an overview of our methodology for measuring economic and social rights](https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/)
+<a href="https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/" target="_blank">Get an overview of our methodology for measuring economic and social rights</a>
 
-[Read our more in-depth methodology handbook](https://humanrightsmeasurement.org/methodology-handbook/)
+<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Read our more in-depth methodology handbook</a>
 
-[Visit the SERF Index website](https://serfindex.uconn.edu/)
+<a href="https://serfindex.uconn.edu/" target="_blank">Visit the SERF Index website</a>
 ===end-info-box
 
 ===text-section

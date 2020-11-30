@@ -23,11 +23,12 @@ Concernant les droits civils et politiques, dont les violations ont souvent lieu
 ===info-box
 Pour en savoir plus :
 
-[Obtenez un aperçu de notre méthodologie d'évaluation du respect des droits civils et politiques](https://humanrightsmeasurement.org/fr/methodologie/mesurer-les-droits-civiques-et-politiques/)
+<a href="https://humanrightsmeasurement.org/fr/methodologie/mesurer-les-droits-civiques-et-politiques/" target="_blank">Obtenez un aperçu de notre méthodologie d'évaluation du respect des droits civils et politiques</a>
 
-[Lisez notre guide de méthodologie détaillée (en anglais)](https://humanrightsmeasurement.org/methodology-handbook/)
+<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Lisez notre guide de méthodologie détaillée (en anglais)</a>
 
-[Consultez l'enquête de HRMI réalisée auprès d'experts concernant les droits civils et politiques](https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview) (Veuillez noter qu'il s'agit d'un lien vers un aperçu de la version de l'enquête la plus récente, et qu'aucune réponse entrée ne sera enregistrée) 
+<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview" target="_blank">Consultez l'enquête de HRMI réalisée auprès d'experts concernant les droits civils et politiques</a>
+(Veuillez noter qu'il s'agit d'un lien vers un aperçu de la version de l'enquête la plus récente, et qu'aucune réponse entrée ne sera enregistrée) 
 ===end-info-box
  
 ===text-section
@@ -39,11 +40,11 @@ Concernant les droits économiques et sociaux, nous nous appuyons sur les statis
 ===info-box
 Pour en savoir plus :
 
-[Aperçu de notre méthodologie pour la mesure des droits économiques et sociaux](https://humanrightsmeasurement.org/fr/methodologie/mesurer-les-droits-economiques-et-sociaux/)
+<a href="https://humanrightsmeasurement.org/fr/methodologie/mesurer-les-droits-economiques-et-sociaux/" target="_blank">Aperçu de notre méthodologie pour la mesure des droits économiques et sociaux</a>
 
-[Lisez notre guide de méthodologie détaillée (en anglais)](https://humanrightsmeasurement.org/methodology-handbook/)
+<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Lisez notre guide de méthodologie détaillée (en anglais)</a>
 
-[Visitez le site Web de l'indice SERF (en anglais)](https://serfindex.uconn.edu/)
+<a href="https://serfindex.uconn.edu/" target="_blank">Visitez le site Web de l'indice SERF (en anglais)</a>
 ===end-info-box
 
 ===text-section
