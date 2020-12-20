@@ -37,6 +37,8 @@ Learn more:
 For economic and social rights, we draw on national statistics produced by governments and international agencies, and use the award-winning SERF Index methodology to compare countries’ human rights outcomes with their income, to capture the concept of 'progressive realisation'.
 ===end-text-section
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Kplyg_Fmv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ===info-box
 Learn more:
 
