@@ -35,6 +35,8 @@ Learn more:
 ### Measuring economic and social rights
 
 For economic and social rights, we draw on national statistics produced by governments and international agencies, and use the award-winning SERF Index methodology to compare countries’ human rights outcomes with their income, to capture the concept of 'progressive realisation'.
+
+Watch this short video on how we measure economic and social rights:
 ===end-text-section
 
 ===video-embed
