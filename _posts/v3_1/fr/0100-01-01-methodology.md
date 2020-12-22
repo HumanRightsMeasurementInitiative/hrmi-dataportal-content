@@ -37,6 +37,10 @@ Pour en savoir plus :
 Concernant les droits économiques et sociaux, nous nous appuyons sur les statistiques nationales publiées par les gouvernements et les organismes internationaux, et nous nous servons de la méthodologie ayant reçu le prix de l'indice SERF pour évaluer les résultats d'un pays en matière de respect des droits humains, par rapport à son revenu national afin de tenir compte de la notion de 'réalisation progressive'.
 ===end-text-section
 
+===video-embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Kplyg_Fmv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+===end-video-embed
+
 ===info-box
 Pour en savoir plus :
 

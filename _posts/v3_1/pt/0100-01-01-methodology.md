@@ -37,6 +37,10 @@ Saber mais:
 Para direitos económicos e sociais, recorremos a estatísticas nacionais produzidas por governos e agências internacionais e usamos a premiada metodologia do Índice SERF para comparar os resultados dos direitos humanos dos países com os seus rendimentos, de forma a captar o conceito de 'realização progressiva'.
 ===end-text-section
 
+===video-embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Kplyg_Fmv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+===end-video-embed
+
 ===info-box
 Saber mais:
 

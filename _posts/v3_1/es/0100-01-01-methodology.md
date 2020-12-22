@@ -37,6 +37,10 @@ Saber más:
 Con respecto a los derechos económicos y sociales, recurrimos a las estadísticas nacionales proporcionadas por los gobiernos y las agencias internacionales, y utilizamos la galardonada metodología del índice SERF para comparar los resultados de los derechos humanos de los países en relación con sus ingresos, para aplicar el concepto de ‘cumplimiento progresivo’. 
 ===end-text-section
 
+===video-embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Kplyg_Fmv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+===end-video-embed
+
 ===info-box
 Saber más:
 

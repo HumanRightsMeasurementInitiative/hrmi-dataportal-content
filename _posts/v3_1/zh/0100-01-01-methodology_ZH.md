@@ -34,6 +34,10 @@ title: Methodology
 对于社会经济权，我们利用政府和国际机构提供的国家统计数据，并使用屡获殊荣的SERF指数方法来比较各国的人权成果与其收入，以捕捉“逐步实现”的概念。
 ===end-text-section
 
+===video-embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Kplyg_Fmv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+===end-video-embed
+
 ===info-box
 查看更多：
 
