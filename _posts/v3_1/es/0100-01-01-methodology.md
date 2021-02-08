@@ -20,6 +20,10 @@ No existe una única metodología para medir el cumplimiento de los derechos hum
 Con respecto a los derechos civiles y políticos, donde las violaciones a menudo ocurren en secreto y los informes son inconsistentes en los distintos países, utilizamos un enfoque de encuestas para especialistas para obtener nuestra información directamente de los expertos en derechos humanos que están supervisando los eventos en cada país.
 ===end-text-section
 
+===video-embed
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EwwTHRH_tpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+===end-video-embed
+
 ===info-box
 Saber más:
 

@@ -20,6 +20,10 @@ Il n'existe pas d’outils clés en main pour évaluer le respect des droits hum
 Concernant les droits civils et politiques, dont les violations ont souvent lieu dans le secret et ne sont pas signalées de la même façon selon les pays, nous utilisons une approche d'enquête réalisée auprès d'experts afin d'obtenir l'information directement auprès des experts qui suivent les événements dans chaque pays.
 ===end-text-section
 
+===video-embed
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EwwTHRH_tpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+===end-video-embed
+
 ===info-box
 Pour en savoir plus :
 

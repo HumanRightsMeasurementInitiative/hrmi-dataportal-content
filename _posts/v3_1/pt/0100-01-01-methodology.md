@@ -20,6 +20,10 @@ Não existe uma metodologia única para medir o desempenho dos direitos humanos,
 Para os direitos civis e políticos, onde as violações muitas vezes ocorrem em segredo e as denúncias são inconsistentes nos diferentes países, usamos uma abordagem com questionários especializados para obter informações diretamente dos especialistas em direitos humanos que estão a monitorizar eventos em cada país.
 ===end-text-section
 
+===video-embed
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EwwTHRH_tpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+===end-video-embed
+
 ===info-box
 Saber mais:
 

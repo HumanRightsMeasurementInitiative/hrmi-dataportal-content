@@ -16,6 +16,10 @@ title: Methodology
 对于公民政治权，侵犯人权经常在秘密场合发生，并且不同国家之间的举报不一致，我们使用多语言专家调查问卷方法直接从监视每个国家事件的人权专家那里获取信息。
 ===end-text-section
 
+===video-embed
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EwwTHRH_tpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+===end-video-embed
+
 ===info-box
 查看更多：
 

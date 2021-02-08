@@ -18,7 +18,13 @@ There is no one-size-fits-all methodology for measuring human rights performance
 ### Measuring civil and political rights
 
 For civil and political rights, where violations often take place in secret and reporting is inconsistent across different countries, we use a multilingual expert survey approach to get our information directly from the human rights experts who are monitoring events in each country.
+
+Watch this short video on how we measure civil and political rights:
 ===end-text-section
+
+===video-embed
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EwwTHRH_tpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+===end-video-embed
 
 ===info-box
 Learn more:
