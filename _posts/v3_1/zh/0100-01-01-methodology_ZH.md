@@ -23,9 +23,9 @@ title: Methodology
 ===info-box
 查看更多：
 
-<a href="https://humanrightsmeasurement.org//methodology/measuring-civil-political-rights/" target="_blank">概述我们衡量公民政治权的方法</a>
+<a href="https://humanrightsmeasurement.org/zh/%e6%96%b9%e6%b3%95/%e8%a1%a1%e9%87%8f%e5%85%ac%e6%b0%91%e5%92%8c%e6%94%bf%e6%b2%bb%e4%ba%ba%e6%9d%83/" target="_blank">概述我们衡量公民政治权的方法</a>
 
-<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">阅读我们的更深入方法的手册</a>
+<a href="https://humanrightsmeasurement.org/zh/%e6%96%b9%e6%b3%95%e6%89%8b%e5%86%8c/" target="_blank">阅读我们的更深入方法的手册</a>
 
 <a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview" target="_blank">参见HRMI公民和政治权利专家调查问卷</a>
 (请注意，这是指向最新版本调查的预览的链接，您输入的任何回复都不会被收集)
