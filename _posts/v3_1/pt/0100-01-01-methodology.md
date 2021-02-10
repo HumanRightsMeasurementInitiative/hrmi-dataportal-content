@@ -18,6 +18,7 @@ Não existe uma metodologia única para medir o desempenho dos direitos humanos,
 ## Medir direitos civis e políticos 
 
 Para os direitos civis e políticos, onde as violações muitas vezes ocorrem em segredo e as denúncias são inconsistentes nos diferentes países, usamos uma abordagem com questionários especializados para obter informações diretamente dos especialistas em direitos humanos que estão a monitorizar eventos em cada país.
+Assista a este breve vídeo sobre como medimos os direitos civis e políticos:
 ===end-text-section
 
 ===video-embed
@@ -39,6 +40,7 @@ Saber mais:
 ## Medir os direitos económicos e sociais 
 
 Para direitos económicos e sociais, recorremos a estatísticas nacionais produzidas por governos e agências internacionais e usamos a premiada metodologia do Índice SERF para comparar os resultados dos direitos humanos dos países com os seus rendimentos, de forma a captar o conceito de 'realização progressiva'.
+Assista a este breve vídeo sobre como medimos os direitos econômicos e sociais:
 ===end-text-section
 
 ===video-embed
