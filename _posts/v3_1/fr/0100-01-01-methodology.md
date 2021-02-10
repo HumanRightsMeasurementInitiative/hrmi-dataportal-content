@@ -18,6 +18,7 @@ Il n'existe pas d’outils clés en main pour évaluer le respect des droits hum
 ## Évaluation du respect des droits civils et politiques 
 
 Concernant les droits civils et politiques, dont les violations ont souvent lieu dans le secret et ne sont pas signalées de la même façon selon les pays, nous utilisons une approche d'enquête réalisée auprès d'experts afin d'obtenir l'information directement auprès des experts qui suivent les événements dans chaque pays.
+Regardez cette courte vidéo sur la façon dont nous mesurons les droits civils et politiques:
 ===end-text-section
 
 ===video-embed
@@ -39,6 +40,7 @@ Pour en savoir plus :
 ## Évaluation du respect des droits économiques et sociaux 
 
 Concernant les droits économiques et sociaux, nous nous appuyons sur les statistiques nationales publiées par les gouvernements et les organismes internationaux, et nous nous servons de la méthodologie ayant reçu le prix de l'indice SERF pour évaluer les résultats d'un pays en matière de respect des droits humains, par rapport à son revenu national afin de tenir compte de la notion de 'réalisation progressive'.
+Regardez cette courte vidéo sur la façon dont nous mesurons les droits économiques et sociaux:
 ===end-text-section
 
 ===video-embed
