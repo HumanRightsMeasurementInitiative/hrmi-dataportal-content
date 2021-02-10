@@ -18,6 +18,7 @@ No existe una única metodología para medir el cumplimiento de los derechos hum
 ## Medición de derechos civiles y políticos 
 
 Con respecto a los derechos civiles y políticos, donde las violaciones a menudo ocurren en secreto y los informes son inconsistentes en los distintos países, utilizamos un enfoque de encuestas para especialistas para obtener nuestra información directamente de los expertos en derechos humanos que están supervisando los eventos en cada país.
+
 Mire este breve video sobre cómo medimos los derechos civiles y políticos:
 ===end-text-section
 
@@ -40,6 +41,7 @@ Saber más:
 ## Medición de derechos económicos y sociales 
 
 Con respecto a los derechos económicos y sociales, recurrimos a las estadísticas nacionales proporcionadas por los gobiernos y las agencias internacionales, y utilizamos la galardonada metodología del índice SERF para comparar los resultados de los derechos humanos de los países en relación con sus ingresos, para aplicar el concepto de ‘cumplimiento progresivo’.
+
 Mire este breve video sobre cómo medimos los derechos económicos y sociales:
 ===end-text-section
 
