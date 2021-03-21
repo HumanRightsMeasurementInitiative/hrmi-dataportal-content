@@ -3,7 +3,7 @@ layout: default
 published: true
 permalink: /v3_1/zh/methodology/
 lang: en
-title: 研究方法
+title: methodology
 ---
 
 ===sub-heading
