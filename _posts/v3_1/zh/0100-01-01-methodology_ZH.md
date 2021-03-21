@@ -3,19 +3,19 @@ layout: default
 published: true
 permalink: /v3_1/zh/methodology/
 lang: en
-title: Methodology
+title: 研究方法
 ---
 
 ===sub-heading
-尚没有一种万能的方法来衡量人权表现，因此我们使用不同的方法来量身定制每一套权利。
+尚没有一种万能的方法来衡量人权表现，所以我们量身定制了不同的方法来衡量每一套权利。
 ===end-sub-heading
 
 ===text-section
-## 衡量公民政治权
+## 衡量公民和政治权利
 
-对于公民政治权，侵犯人权经常在秘密场合发生，并且不同国家之间的举报不一致，我们使用多语言专家调查问卷方法直接从监视每个国家事件的人权专家那里获取信息。
+对于公民权利和政治权利的侵犯经常在隐蔽的地方发生，并且各个国家对此的报道并不一致。因此，我们直接用多语言的调查问卷从追踪相关事宜的人权专家那里获取信息。
 
-观看这段简短的视频，了解我们如何衡量公民权利和政治权利：
+观看这段简短的视频，来了解我们如何衡量公民权利和政治权利：
 ===end-text-section
 
 ===video-embed
@@ -25,21 +25,21 @@ title: Methodology
 ===info-box
 查看更多：
 
-<a href="https://humanrightsmeasurement.org/zh/%e6%96%b9%e6%b3%95/%e8%a1%a1%e9%87%8f%e5%85%ac%e6%b0%91%e5%92%8c%e6%94%bf%e6%b2%bb%e4%ba%ba%e6%9d%83/" target="_blank">概述我们衡量公民政治权的方法</a>
+<a href="https://humanrightsmeasurement.org/zh/%e6%96%b9%e6%b3%95/%e8%a1%a1%e9%87%8f%e5%85%ac%e6%b0%91%e5%92%8c%e6%94%bf%e6%b2%bb%e4%ba%ba%e6%9d%83/" target="_blank">获得我们衡量公民权利和政治权利的方法概述</a>
 
-<a href="https://humanrightsmeasurement.org/zh/%e6%96%b9%e6%b3%95%e6%89%8b%e5%86%8c/" target="_blank">阅读我们的更深入方法的手册</a>
+<a href="https://humanrightsmeasurement.org/zh/%e6%96%b9%e6%b3%95%e6%89%8b%e5%86%8c/" target="_blank">阅读我们更深入的方法手册</a>
 
-<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview" target="_blank">参见HRMI公民和政治权利专家调查问卷</a>
-(请注意，这是指向最新版本调查的预览的链接，您输入的任何回复都不会被收集)
+<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_72IQjpYjeCbIw3b?Q_SurveyVersionID=current&Q_CHL=preview" target="_blank">查看HRMI公民权利和政治权利的专家调查问卷</a>
+(请注意，这链接通往预览问卷最新版本的链接，您输入的任何回复都不会被收集)
 ===end-info-box
 
 
 ===text-section
-## 测量社会经济权
+## 测量社会和经济权
 
-对于社会经济权，我们利用政府和国际机构提供的国家统计数据，并使用屡获殊荣的SERF指数方法来比较各国的人权成果与其收入，以捕捉“逐步实现”的概念。
+对于社会和经济权，我们利用政府和国际机构提供的国家统计数据，并使用获奖的SERF指数来比较各国的人权成果与其收入的得分，并以此来捕捉“逐步实现”的概念。
 
-观看这段简短的视频，了解我们如何衡量经济和社会权利：
+观看这段简短的视频，来了解我们如何衡量经济和社会权利。
 ===end-text-section
 
 ===video-embed
@@ -49,29 +49,29 @@ title: Methodology
 ===info-box
 查看更多：
 
-<a href="https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/" target="_blank">概述我们衡量社会经济权的方法</a>
+<a href="https://humanrightsmeasurement.org//methodology/measuring-economic-social-rights/" target="_blank">获得我们衡量经济和社会权利的方法概述</a>
 
-<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">阅读我们的更深入方法的手册</a>
+<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">阅读我们的更深入研究方法的手册</a>
 
 <a href="https://serfindex.uconn.edu/" target="_blank">访问SERF指数网站</a>
 ===end-info-box
 
 ===text-section
-## 了解如何解释国家/地区图表上的良好、一般、差和很差的标签
+## 了解如何理解国家/地区图表上的良好、一般、差和很差的标签
 
 这些 **良好**、**一般**、**差**和**很差** 的评级范围是什么意思？
 
-国家/地区图表上的 **良好**、**一般**、**差**和**很差**的标签用于提供有关如何理解分数的一般指示。它们不是对国家在个人权利上的表现的全面描述。
+国家/地区图表上的 **良好**、**一般**、**差**和**很差**的标签是来提供有关如何理解这些分数的一般性指示。它们不是对国家在个人权利上表现的全面描述。
 
 ---
 
-### 解释这些关于公民政治权的标签（国家和赋权人身安全权）
+### 理解这些关于公民权利和政治权利（人身完整性权利和赋权权利）的标签
 
-**良好**（8-10）：得分在**好 **的范围的政府自2017年以来，我们的样本中对这些权利的尊重程度高于大多数其他政府。但是，此范围内的国家/地区，尤其是得分接近该范围下限的国家/地区，可能仍然存在严重的问题，导致某些人的权利受到侵犯。
+**良好**（8-10）：得分在**好 ** 的范围的政府自2017年以来，我们的样本中对这些权利的尊重程度高于大多数其他政府。但是，此范围内的国家/地区，尤其是得分接近该范围下限的国家/地区，可能仍然存在严重的问题，导致某些人的权利受到侵犯。
 
 **一般** (6-8):得分在 **一般** 的范围的政府从2017年开始，比很多国家尊重这些权利，但是仍然侵犯了许多人的权利。
 
-**坏** (3.5-6):得分在**差** 的范围的政府从2017年开始参与许多侵犯公民政治权的行为，其表现比许多政府都要差。
+**差** (3.5-6):得分在**差** 的范围的政府从2017年开始参与许多侵犯公民政治权的行为，其表现比许多政府都要差。
 
 **很差** (0-3.5)：得分在**很差**的范围的政府从2017年，比大部分政府更多侵犯了公民权利和政治权利。
 
