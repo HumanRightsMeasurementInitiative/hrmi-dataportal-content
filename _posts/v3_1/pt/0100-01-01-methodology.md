@@ -100,7 +100,7 @@ As melhores pontuações globais avaliam o desempenho do país em comparação c
 
 **Bom** (95 - 100 %): Países com pontuação de 100% estabelecem o índice de referência para o que é possível em qualquer nível de rendimentos. Geralmente, estes são países com alto rendimento que demonstram o que é possível atingir considerando o seu rendimento e as tecnologias e conhecimentos atuais. Estes países não serão perfeitos, mas estão a demonstrar o que é possível alcançar até agora. Os países com pontuações acima de 95 mas abaixo de 100 permitem às pessoas que reivindiquem de forma ampla o direito em questão, mas, como em todos os países, ainda existem alguns subgrupos populacionais vulneráveis que são incapazes de reivindicar os seus direitos. 
 
-**Razoável** (85 - 94,9 %): Países com pontuações neste intervalo provavelmente permitem que a maioria das pessoas reivindique o direito em questão, mas ainda existem segmentos da população que não consegue fazê-lo. 
+**Razoável** (85 - 94,9 %): Países com pontuações neste intervalo provavelmente permitem que a maioria das pessoas reivindique o direito em questão, mas ainda existem segmentos da população que não conseguem fazê-lo. 
 
 **Mau** (75 - 84,9 %): Países com pontuações neste intervalo têm um longo caminho a percorrer para garantir que a maioria das pessoas usufrua do direito em questão. Permanecem ainda segmentos substanciais da sociedade incapazes de o fazer.
 
