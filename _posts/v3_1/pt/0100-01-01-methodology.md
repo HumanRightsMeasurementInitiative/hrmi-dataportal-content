@@ -60,11 +60,11 @@ Saber mais:
 ===end-info-box
 
 ===text-section
-## Compreender como interpretar os rótulos de bom, razoável, mau e muito mau nos gráficos do país
+## Compreenda como interpretar os rótulos de bom, razoável, mau e muito mau nos gráficos do país 
 
 Qual é exatamente o alcance de **bom**, **razoável**, **mau**, e **muito mau**?
 
-Os rótulos nos gráficos dos países de  **bom**, **razoável**, **mau**, e **muito mau** são usados para dar uma ideia geral de como compreender as pontuações. NÃO são descrições compreensivas do desempenho de um país sobre um direito individual.
+Os rótulos nos gráficos dos países de  **bom**, **razoável**, **mau**, e **muito mau** são usados para dar uma ideia geral de como compreender as pontuações. NÃO são descrições exaustivas do desempenho de um país sobre um direito individual.
 
 ---
 
@@ -98,7 +98,7 @@ As pontuações do HRMI relativamente à Qualidade de Vida ajustadas aos rendime
 
 As melhores pontuações globais avaliam o desempenho do país em comparação com o objetivo final de garantir que todas as pessoas possam usufruir dos seus direitos económicos e sociais. Os países com bom desempenho em relação à referência de desempenho ajustada aos rendimentos podem ainda ter um mau desempenho em relação à melhor referência global se enfrentarem restrições de recursos.
 
-**Bom** (95 - 100 %): Países com pontuação de 100% estabelecem o índice de referência para o que é possível em qualquer nível de rendimentos. Geralmente, estes são países com alto rendimento que demonstram o que é possível atingir considerando o seu rendimento e as tecnologias e conhecimentos atuais. Estes países não serão perfeitos, mas estão a demonstrar o que é possível alcançar até agora. Os países com pontuações acima de 95 mas abaixo de 100 permitem às pessoas reivindiquem de forma ampla o direito em questão, mas, como em todos os países, ainda existem alguns subgrupos populacionais vulneráveis que são incapazes de reivindicar os seus direitos. 
+**Bom** (95 - 100 %): Países com pontuação de 100% estabelecem o índice de referência para o que é possível em qualquer nível de rendimentos. Geralmente, estes são países com alto rendimento que demonstram o que é possível atingir considerando o seu rendimento e as tecnologias e conhecimentos atuais. Estes países não serão perfeitos, mas estão a demonstrar o que é possível alcançar até agora. Os países com pontuações acima de 95 mas abaixo de 100 permitem às pessoas que reivindiquem de forma ampla o direito em questão, mas, como em todos os países, ainda existem alguns subgrupos populacionais vulneráveis que são incapazes de reivindicar os seus direitos. 
 
 **Razoável** (85 - 94,9 %): Países com pontuações neste intervalo provavelmente permitem que a maioria das pessoas reivindique o direito em questão, mas ainda existem segmentos da população que não consegue fazê-lo. 
 
