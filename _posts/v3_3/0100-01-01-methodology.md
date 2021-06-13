@@ -33,7 +33,7 @@ Learn more:
 
 <a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Read our more in-depth methodology handbook</a>
 
-<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_2uynJrHKMNsp04S?Q_CHL=preview&Q_SurveyVersionID=current" target="_blank">See the HRMI expert survey for civil and political rights</a>
+<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_9pfULaigVoMWSjA?Q_CHL=preview" target="_blank">See the HRMI expert survey for civil and political rights</a>
 (please note this is a link to a preview of the most recent version of the survey, and any responses you enter will not be collected)
 ===end-info-box
 
