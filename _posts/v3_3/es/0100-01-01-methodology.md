@@ -33,7 +33,7 @@ Saber más:
 
 <a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Lea nuestro manual detallado de metodología (en ingles)</a>
 
-<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_2uynJrHKMNsp04S?Q_CHL=preview&Q_SurveyVersionID=current" target="_blank">Mire la encuesta para especialistas de HRMI sobre derechos civiles y políticos</a>
+<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_9pfULaigVoMWSjA?Q_CHL=preview" target="_blank">Mire la encuesta para especialistas de HRMI sobre derechos civiles y políticos</a>
 (tenga en cuenta que este es un enlace a una vista previa de la versión más reciente de la encuesta y no se recopilarán tus respuestas)
 ===end-info-box
 
