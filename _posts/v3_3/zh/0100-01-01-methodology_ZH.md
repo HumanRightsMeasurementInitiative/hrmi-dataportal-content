@@ -29,7 +29,7 @@ title: Methodology
 
 <a href="https://humanrightsmeasurement.org/zh/%e6%96%b9%e6%b3%95%e6%89%8b%e5%86%8c/" target="_blank">阅读我们的更深入方法的手册</a>
 
-<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_2uynJrHKMNsp04S?Q_CHL=preview&Q_SurveyVersionID=current" target="_blank">参见HRMI公民和政治权利专家调查问卷</a>
+<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_9pfULaigVoMWSjA?Q_CHL=preview" target="_blank">参见HRMI公民和政治权利专家调查问卷</a>
 (请注意，这是指向最新版本调查的预览的链接，您输入的任何回复都不会被收集)
 ===end-info-box
 
