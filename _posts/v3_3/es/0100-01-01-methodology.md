@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /v3_1/es/methodology/
+permalink: /v3_3/es/methodology/
 lang: es
 title: Methodology
 ---

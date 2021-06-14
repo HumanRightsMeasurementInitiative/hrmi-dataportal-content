@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-permalink: /v3_1/zh/methodology/
+permalink: /v3_3/zh/methodology/
 lang: en
 title: Methodology
 ---
