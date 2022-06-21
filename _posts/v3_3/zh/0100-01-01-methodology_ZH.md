@@ -29,7 +29,7 @@ title: Methodology
 
 <a href="https://humanrightsmeasurement.org/zh/%e6%96%b9%e6%b3%95%e6%89%8b%e5%86%8c/" target="_blank">阅读我们的更深入方法的手册</a>
 
-<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_9pfULaigVoMWSjA?Q_CHL=preview" target="_blank">参见HRMI公民和政治权利专家调查问卷</a>
+<a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_ekOpmGN048CN5hs?Q_CHL=preview&Q_SurveyVersionID=current" target="_blank">参见HRMI公民和政治权利专家调查问卷</a>
 (请注意，这是指向最新版本调查的预览的链接，您输入的任何回复都不会被收集)
 ===end-info-box
 
@@ -65,7 +65,7 @@ title: Methodology
 
 ---
 
-### 解释这些关于公民政治权的标签（国家和赋权人身安全权）
+### 解释这些关于公民政治权的标签（人身完整性权利和赋权）
 
 **良好**（8-10）：得分在**好 **的范围的政府自2017年以来，我们的样本中对这些权利的尊重程度高于大多数其他政府。但是，此范围内的国家/地区，尤其是得分接近该范围下限的国家/地区，可能仍然存在严重的问题，导致某些人的权利受到侵犯。
 
