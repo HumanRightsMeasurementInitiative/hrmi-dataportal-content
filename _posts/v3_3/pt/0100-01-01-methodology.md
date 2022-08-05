@@ -11,11 +11,12 @@ title: Methodology
 ===end-sub-heading
 
 ===text-section
+
 ## Medir direitos humanos
 
 Não existe uma metodologia única para medir o desempenho dos direitos humanos, por isso utilizamos metodologias diferentes que são mais adequadas para cada área.
 
-## Medir direitos civis e políticos 
+## Medir direitos civis e políticos
 
 Para os direitos civis e políticos, onde as violações muitas vezes ocorrem em segredo e as denúncias são inconsistentes nos diferentes países, usamos uma abordagem com questionários especializados para obter informações diretamente dos especialistas em direitos humanos que estão a monitorizar eventos em cada país.
 
@@ -23,22 +24,24 @@ Assista a este breve vídeo sobre como medimos os direitos civis e políticos:
 ===end-text-section
 
 ===video-embed
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EwwTHRH_tpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ===end-video-embed
 
 ===info-box
 Saber mais:
 
-<a href="https://humanrightsmeasurement.org/pt-pt/metodologia/medindo-direitos-civis-e-politicos/" target="_blank">Obtenha uma visão geral de nossa metodologia para medir os direitos civis e políticos</a>
+<a href="https://humanrightsmeasurement.org/pt-pt/metodologia/visao-geral/" target="_blank">Obtenha uma visão geral de nossa metodologia para medir os direitos civis e políticos</a>
 
-<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Leia o nosso manual de metodologia mais detalhado (em inglês)</a>
+<a href="https://humanrightsmeasurement.org/pt-pt/manual-de-metodologia/" target="_blank">Leia o nosso manual de metodologia mais detalhado (em inglês)</a>
 
 <a href="https://ugeorgia.ca1.qualtrics.com/jfe/preview/SV_23G3hqMwaEfDBCC?Q_CHL=preview&Q_SurveyVersionID=current" target="_blank">Veja a pesquisa de especialistas da HRMI em direitos civis e políticos</a>
 (Atenção: esta versão da pesquisa não está ativa e qualquer resposta inserida não será registrada)
 ===end-info-box
 
 ===text-section
-## Medir os direitos económicos e sociais 
+
+## Medir os direitos económicos e sociais
 
 Para direitos económicos e sociais, recorremos a estatísticas nacionais produzidas por governos e agências internacionais e usamos a premiada metodologia do Índice SERF para comparar os resultados dos direitos humanos dos países com os seus rendimentos, de forma a captar o conceito de 'realização progressiva'.
 
@@ -46,6 +49,7 @@ Assista a este breve vídeo sobre como medimos os direitos econômicos e sociais
 ===end-text-section
 
 ===video-embed
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Kplyg_Fmv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ===end-video-embed
 
@@ -54,17 +58,18 @@ Saber mais:
 
 <a href="https://humanrightsmeasurement.org/pt-pt/metodologia/medicao-de-direitos-economicos-e-sociais/" target="_blank">Obtenha uma visão geral de nossa metodologia de medição dos direitos econômicos e sociais</a>
 
-<a href="https://humanrightsmeasurement.org/methodology-handbook/" target="_blank">Leia o nosso manual de metodologia mais detalhado (em inglês)</a>
+<a href="https://humanrightsmeasurement.org/pt-pt/manual-de-metodologia/" target="_blank">Leia o nosso manual de metodologia mais detalhado (em inglês)</a>
 
 <a href="https://serfindex.uconn.edu/" target="_blank">Visite o site do SERF Index (em inglês)</a>
 ===end-info-box
 
 ===text-section
-## Compreenda como interpretar os rótulos de bom, razoável, mau e muito mau nos gráficos do país 
+
+## Compreenda como interpretar os rótulos de bom, razoável, mau e muito mau nos gráficos do país
 
 Qual é exatamente o alcance de **bom**, **razoável**, **mau**, e **muito mau**?
 
-Os rótulos nos gráficos dos países de  **bom**, **razoável**, **mau**, e **muito mau** são usados para dar uma ideia geral de como compreender as pontuações. NÃO são descrições exaustivas do desempenho de um país sobre um direito individual.
+Os rótulos nos gráficos dos países de **bom**, **razoável**, **mau**, e **muito mau** são usados para dar uma ideia geral de como compreender as pontuações. NÃO são descrições exaustivas do desempenho de um país sobre um direito individual.
 
 ---
 
@@ -76,7 +81,7 @@ Os rótulos nos gráficos dos países de  **bom**, **razoável**, **mau**, e **m
 
 **Mau** (3,5 - 6): Governos com pontuações no intervalo **mau** envolvem-se em inúmeras violações de direitos civis e políticos, apresentando um desempenho pior do que muitos dos governos na nossa amostra desde 2017.
 
-**Muito mau** (0 - 3,5): Governos com pontuações no intervalo **muito mau** violam este direitos mais do que qualquer dos outros governos na nossa amostra desde 2017. 
+**Muito mau** (0 - 3,5): Governos com pontuações no intervalo **muito mau** violam este direitos mais do que qualquer dos outros governos na nossa amostra desde 2017.
 
 ---
 
@@ -84,23 +89,23 @@ Os rótulos nos gráficos dos países de  **bom**, **razoável**, **mau**, e **m
 
 #### Pontuações ajustadas pelos rendimentos
 
-As pontuações do HRMI relativamente à Qualidade de Vida ajustadas aos rendimentos podem ser amplamente interpretadas como mostrando a percentagem da obrigação que o país cumpriu, em comparação com o que os países com melhor desempenho alcançaram em cada nível de rendimentos. 
+As pontuações do HRMI relativamente à Qualidade de Vida ajustadas aos rendimentos podem ser amplamente interpretadas como mostrando a percentagem da obrigação que o país cumpriu, em comparação com o que os países com melhor desempenho alcançaram em cada nível de rendimentos.
 
-**Bom** (95 - 100 %): Países com pontuação de 100% estabelecem o índice de referência para o nível de rendimentos per capita do país em questão. Isto é, mostram o que é possível alcançar com o seu nível de recursos, considerando as tecnologias e conhecimentos atuais. Estes países estão a cumprir a obrigação imediata no direito internacional para utilizar o máximo de recursos disponíveis para cumprir progressivamente o direito em questão. Países com pontuações acima de 95, mas abaixo de 100, estão a fazer um bom trabalho para garantir que os recursos de que dispõem, permita que o maior número possível de pessoas desfrute do direito em questão, mas há sempre espaço para melhorar. 
+**Bom** (95 - 100 %): Países com pontuação de 100% estabelecem o índice de referência para o nível de rendimentos per capita do país em questão. Isto é, mostram o que é possível alcançar com o seu nível de recursos, considerando as tecnologias e conhecimentos atuais. Estes países estão a cumprir a obrigação imediata no direito internacional para utilizar o máximo de recursos disponíveis para cumprir progressivamente o direito em questão. Países com pontuações acima de 95, mas abaixo de 100, estão a fazer um bom trabalho para garantir que os recursos de que dispõem, permita que o maior número possível de pessoas desfrute do direito em questão, mas há sempre espaço para melhorar.
 
-**Razoável** (85 - 94,9 %): Países com pontuações neste intervalo não estão a fazer tanto quanto poderiam fazer para cumprir as suas obrigações sob a lei de direitos humanos. Estão apenas a fazer um trabalho razoável (bom, mas não bom o suficiente) para implementar as estruturas e políticas que permitem que as pessoas desfrutem do direito em questão. 
+**Razoável** (85 - 94,9 %): Países com pontuações neste intervalo não estão a fazer tanto quanto poderiam fazer para cumprir as suas obrigações sob a lei de direitos humanos. Estão apenas a fazer um trabalho razoável (bom, mas não bom o suficiente) para implementar as estruturas e políticas que permitem que as pessoas desfrutem do direito em questão.
 
-**Mau** (75 - 84,9 %): Países com pontuações neste intervalo têm um longo caminho a percorrer para cumprir as suas obrigações sob a lei dos direitos humanos. Falharam na implementação dos tipos de estruturas e políticas que permitem às pessoas reivindicar o direito em questão. 
+**Mau** (75 - 84,9 %): Países com pontuações neste intervalo têm um longo caminho a percorrer para cumprir as suas obrigações sob a lei dos direitos humanos. Falharam na implementação dos tipos de estruturas e políticas que permitem às pessoas reivindicar o direito em questão.
 
-**Muito mau** (abaixo de 75 %): Não existe razão para que um país tenha uma pontuação tão baixa. Não estão apenas a falhar na implementação dos tipos de estruturas e políticas que ajudam as pessoas a reivindicar o direito em questão, mas as estruturas e políticas em vigor impedem provavelmente as pessoas de reivindicar os seus direitos. 
+**Muito mau** (abaixo de 75 %): Não existe razão para que um país tenha uma pontuação tão baixa. Não estão apenas a falhar na implementação dos tipos de estruturas e políticas que ajudam as pessoas a reivindicar o direito em questão, mas as estruturas e políticas em vigor impedem provavelmente as pessoas de reivindicar os seus direitos.
 
 #### Melhores pontuações globais
 
 As melhores pontuações globais avaliam o desempenho do país em comparação com o objetivo final de garantir que todas as pessoas possam usufruir dos seus direitos económicos e sociais. Os países com bom desempenho em relação à referência de desempenho ajustada aos rendimentos podem ainda ter um mau desempenho em relação à melhor referência global se enfrentarem restrições de recursos.
 
-**Bom** (95 - 100 %): Países com pontuação de 100% estabelecem o índice de referência para o que é possível em qualquer nível de rendimentos. Geralmente, estes são países com alto rendimento que demonstram o que é possível atingir considerando o seu rendimento e as tecnologias e conhecimentos atuais. Estes países não serão perfeitos, mas estão a demonstrar o que é possível alcançar até agora. Os países com pontuações acima de 95 mas abaixo de 100 permitem às pessoas que reivindiquem de forma ampla o direito em questão, mas, como em todos os países, ainda existem alguns subgrupos populacionais vulneráveis que são incapazes de reivindicar os seus direitos. 
+**Bom** (95 - 100 %): Países com pontuação de 100% estabelecem o índice de referência para o que é possível em qualquer nível de rendimentos. Geralmente, estes são países com alto rendimento que demonstram o que é possível atingir considerando o seu rendimento e as tecnologias e conhecimentos atuais. Estes países não serão perfeitos, mas estão a demonstrar o que é possível alcançar até agora. Os países com pontuações acima de 95 mas abaixo de 100 permitem às pessoas que reivindiquem de forma ampla o direito em questão, mas, como em todos os países, ainda existem alguns subgrupos populacionais vulneráveis que são incapazes de reivindicar os seus direitos.
 
-**Razoável** (85 - 94,9 %): Países com pontuações neste intervalo provavelmente permitem que a maioria das pessoas reivindique o direito em questão, mas ainda existem segmentos da população que não conseguem fazê-lo. 
+**Razoável** (85 - 94,9 %): Países com pontuações neste intervalo provavelmente permitem que a maioria das pessoas reivindique o direito em questão, mas ainda existem segmentos da população que não conseguem fazê-lo.
 
 **Mau** (75 - 84,9 %): Países com pontuações neste intervalo têm um longo caminho a percorrer para garantir que a maioria das pessoas usufrua do direito em questão. Permanecem ainda segmentos substanciais da sociedade incapazes de o fazer.
 
